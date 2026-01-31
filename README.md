@@ -61,9 +61,4 @@ Contribution:
 3. Make your changes (e.g., add features / improve detection)  
 4. Submit a pull request
 
-License:
-MIT License
-
-Contact:
-Devanshu Verma  
-GitHub: https://github.com/devanshu119  
+ 
